@@ -1,0 +1,88 @@
+Script started on 2019-09-14 00:17:54-0500
+]0;vuong034@vuong034-VirtualBox: ~/Desktop/3101[01;32mvuong034@vuong034-VirtualBox[00m:[01;34m~/Desktop/3101[00m$ exit./3d_arraygcc 3d_array.c -o 3d_array
+]0;vuong034@vuong034-VirtualBox: ~/Desktop/3101[01;32mvuong034@vuong034-VirtualBox[00m:[01;34m~/Desktop/3101[00m$ gcc 3d_array.c -o 3d_arrayexit[K./3d_array
+
+MENU
+=====
+Enter selection :
+ 1: sum total array
+ 2: Sum 2nd dimension for values 1-5
+ 3: Sum 3rd dimension for passed lane #
+ 4: Quit
+1
+Total for the entire year = 18985.23
+
+MENU
+=====
+Enter selection :
+ 1: sum total array
+ 2: Sum 2nd dimension for values 1-5
+ 3: Sum 3rd dimension for passed lane #
+ 4: Quit
+2
+Weekday totals for the year = 14203.12
+
+MENU
+=====
+Enter selection :
+ 1: sum total array
+ 2: Sum 2nd dimension for values 1-5
+ 3: Sum 3rd dimension for passed lane #
+ 4: Quit
+3
+Please enter lane number (1-10)
+dfa
+Please enter a valid Lane number: "0"
+Please enter lane number (1-10)
+
+Please enter a valid Lane number: "0"
+Please enter lane number (1-10)
+10
+Lane totals for the year = 2829.12
+
+MENU
+=====
+Enter selection :
+ 1: sum total array
+ 2: Sum 2nd dimension for values 1-5
+ 3: Sum 3rd dimension for passed lane #
+ 4: Quit
+
+Please input a valid number
+
+
+MENU
+=====
+Enter selection :
+ 1: sum total array
+ 2: Sum 2nd dimension for values 1-5
+ 3: Sum 3rd dimension for passed lane #
+ 4: Quit
+
+Please input a valid number
+
+
+MENU
+=====
+Enter selection :
+ 1: sum total array
+ 2: Sum 2nd dimension for values 1-5
+ 3: Sum 3rd dimension for passed lane #
+ 4: Quit
+afdsa
+Please input a valid number
+
+
+MENU
+=====
+Enter selection :
+ 1: sum total array
+ 2: Sum 2nd dimension for values 1-5
+ 3: Sum 3rd dimension for passed lane #
+ 4: Quit
+4
+quitting
+]0;vuong034@vuong034-VirtualBox: ~/Desktop/3101[01;32mvuong034@vuong034-VirtualBox[00m:[01;34m~/Desktop/3101[00m$ exit
+exit
+
+Script done on 2019-09-14 00:18:36-0500
